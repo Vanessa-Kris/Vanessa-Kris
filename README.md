@@ -1,8 +1,8 @@
 ### Hi there 👋 
 My name is Vanessa Christopher (she/ her), originally from Nigeria. I'm just a web developer for now, but definitely will be more before the year runs out.
 
-I was an intern with @outreachy and worked with the NeuroFedora team. It was really a life-changing experience. 
-I'm still contributing to open source as a packager at @fedora. I would also love to contribute to more projects. You could recommend some 🙂
+I was an intern with [Outreachy](https://www.outreachy.org/) and worked with the NeuroFedora team. It was really a life-changing experience. 
+I'm still contributing to open source as a packager at [fedora](https://getfedora.org/). I would also love to contribute to more projects. You could recommend some 🙂
 
 looking for help with javascript though, I'm finding it really hard 🥺
  
