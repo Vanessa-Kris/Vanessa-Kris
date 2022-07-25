@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mini_on_nessa" target="blank"><img src="https://img.shields.io/twitter/follow/mini_on_nessa?logo=twitter&style=for-the-badge" alt="mini_on_nessa" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **JavaScript**
 
