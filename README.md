@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Html, Css, Boostrap**
+- 💬 Ask me about **Html, Css, Bootstrap and maybe JS (Just maybe)**
 
 - 📫 How to reach me **vanessaigwe@gmail.com**
 
