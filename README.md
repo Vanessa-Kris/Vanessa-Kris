@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html, Css, Bootstrap and maybe JS (Just maybe)**
 
-- 📫 How to reach me **vanessaigwe@gmail.com**
+- 📫 How to reach me **vanessaigwe1@gmail.com**
 
 - ⚡ Fun fact **I eat alot!**
 
