@@ -27,9 +27,10 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanessa-kris&show_icons=true&locale=en&layout=compact" alt="vanessa-kris" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-kris&show_icons=true&locale=en" alt="vanessa-kris" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessa-kris&show_icons=true&locale=en" alt="vanessa-kris" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-kris&" alt="vanessa-kris" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-kris&" alt="vanessa-kris" /></p> 
+
 [![@vanessakris's Holopin board](https://holopin.me/vanessakris)](https://holopin.io/@vanessakris)
 <!--
 **Vanessa-Kris/Vanessa-Kris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
