@@ -31,7 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanessa-kris&" alt="vanessa-kris" /></p> -->
 [![@vanessakris's Holopin board](https://holopin.me/vanessakris)](https://holopin.io/@vanessakris)
-
 <!--
 **Vanessa-Kris/Vanessa-Kris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
