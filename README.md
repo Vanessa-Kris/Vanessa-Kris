@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/smswithoutborders/SMSWithoutBorders-Telemetry-FE" target="blank"> **SMSWithoutBorders Telemetry**</a>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Dart, Node, Flutter, SQL, the list could go on....😭**
 
 - 💬 Ask me **Anything**
 
