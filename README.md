@@ -18,7 +18,6 @@
 <a href="https://twitter.com/mini_on_nessa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mini_on_nessa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vanessa christopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessa christopher" height="30" width="40" /></a>
 <a href="https://fb.com/vanessa igwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vanessa igwe" height="30" width="40" /></a>
-</p>
 <a href="https://www.instagram.com/nessa_kristo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanessa igwe" height="30" width="40" /></a>
 </p>
 
