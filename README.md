@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanessa Christopher</h1>
 <h3 align="center">I'm from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanessa-kris" alt="vanessa-kris" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)"><img src="https://github-profile-trophy.vercel.app/?username=vanessa-kris" alt="vanessa-kris" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mini_on_nessa" target="blank"><img src="https://img.shields.io/twitter/follow/mini_on_nessa?logo=twitter&style=for-the-badge" alt="mini_on_nessa" /></a> </p>
 
