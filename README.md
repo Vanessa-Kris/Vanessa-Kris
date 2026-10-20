@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vanessa Christopher</h1>
+<h1 align="left">Hi 👋, I'm Vanessa Christopher</h1>
 
-<p align="left"> <a href="https://twitter.com/mini_on_nessa" target="blank"><img src="https://img.shields.io/twitter/follow/mini_on_nessa?logo=twitter&style=for-the-badge" alt="mini_on_nessa" /></a> </p>
+<p align="left"> <a href="https://vanessaigwe.com/" target="blank"><img src="https://img.shields.io/twitter/follow/vanessaigwe?logo=twitter&style=for-the-badge" alt="Vanessa Igwe" /></a> </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/smswithoutborders" target="blank"> **SMSWithoutBorders**</a>
 
